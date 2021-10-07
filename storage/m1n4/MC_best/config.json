@@ -1,0 +1,1 @@
+{"epochs": 500000, "update": "MC", "name": "MC_best", "policy": "best_policy", "n_zeros": 10, "session": 10000}

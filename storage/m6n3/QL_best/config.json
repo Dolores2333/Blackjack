@@ -1,0 +1,1 @@
+{"epochs": 500000, "update": "QL", "name": "QL_best", "policy": "best_policy", "n_zeros": 10, "session": 10000}

@@ -1,0 +1,8 @@
+{
+  "epochs": 500000,
+  "update": "TD",
+  "name": "TD_epsilon",
+  "policy": "epsilon_greedy_policy",
+  "n_zeros": 10,
+  "session": 10000
+}
