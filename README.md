@@ -266,13 +266,12 @@ MC_best_value visualization
 If you use my Blackjack in any context, please cite this repository:
 
 ```latex
-@inproceedings{
-  Oreshkin2020:N-BEATS,
-  title={{N-BEATS}: Neural basis expansion analysis for interpretable time series forecasting},
-  author={Boris N. Oreshkin and Dmitri Carpov and Nicolas Chapados and Yoshua Bengio},
-  booktitle={International Conference on Learning Representations},
-  year={2020},
-  url={https://openreview.net/forum?id=r1ecqn4YwB}
+@article{
+  ZHA2021:RL_Blackjack,
+  title={Reinforcement Learning for the Blackjack},
+  author={ZHA Mengyue},
+  year={2021},
+  url={https://github.com/Dolores2333/Blackjack}
 }
 ```
 
