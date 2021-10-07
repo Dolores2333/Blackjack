@@ -6,7 +6,7 @@ SID: 20668901
 
 Math Department of HKUST
 
-![](/Users/zhamengyue/Documents/UST2021Fall/MATH6450I/HW/Blackjack/casino.png)
+![](/https://github.com/Dolores2333/Blackjack/blob/main/casino.png)
 
 ## Problem Statement
 
