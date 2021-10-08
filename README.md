@@ -174,7 +174,7 @@ Assume that in the Blackjack game, there are $m$ decks of cards, and $n$ players
 
 ## Tabular Summary for the Experiments
 
-### Single Instance of m=$\infty$, $n=2$
+### Single Instance of $m=\infty$, $n=2$
 
 | m=$\infty$, n=2       | MC       | QL       | TD       |
 | --------------------- | -------- | -------- | -------- |
@@ -255,7 +255,7 @@ We also has some higher level hyperparameters that are assigned in the template 
 
 We illustrate the typical plots as examples and you want to see more, please visit the subfolder with path = STORAGE/INSTANCE/pic
 
-### $m=\infty$, $n=2$
+### Visualization on $m=\infty$, $n=2$
 
 MC_best_value visualization
 
