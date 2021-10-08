@@ -72,7 +72,7 @@ In order to make sure that the cards are sufficient we also insert a mechanism t
 
 Assume that in the Blackjack game, there are $m$ decks of cards, and $n$ players (a dealer vs $n-1$ players). The rules of the game are explained above. 
 
-(1) Find the optimal policy for the Blackjack, when $m=\infty$ and $n=2$. You can use any of the methods learned so far in class (e.g. Monte Carlo, TD, or Q-Learning). If you use more than one method, do they reach the same optimal policy?
+(1) Find the optimal policy for the Blackjack, when m=inf, n=2. You can use any of the methods learned so far in class (e.g. Monte Carlo, TD, or Q-Learning). If you use more than one method, do they reach the same optimal policy?
 
 (2) Visualise the value functions and policy as done in Figures 5.1 and 5.2 in Sutton's book. 
 
@@ -285,7 +285,7 @@ We also has some higher level hyperparameters that are assigned in the template 
 
 We illustrate the typical plots as examples and you want to see more, please visit the subfolder with path = STORAGE/INSTANCE/pic
 
-### Visualization on m=$\infty$, $n=2$
+### Visualization on m=inf, n=2
 We only take the update=MC as example and you should refer to Blackjack/storage/m0n2/pic/ for outcomes for QL and TD
 
 #### Value Function Visualization
