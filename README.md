@@ -285,7 +285,7 @@ We also has some higher level hyperparameters that are assigned in the template 
 
 We illustrate the typical plots as examples and you want to see more, please visit the subfolder with path = STORAGE/INSTANCE/pic
 
-### Visualization on $m=\infty$, $n=2$
+### Visualization on ![](http://latex.codecogs.com/gif.latex?\m=\infty), ![](http://latex.codecogs.com/gif.latex?\n=2)
 
 We only take the update=MC as example and you should refer to Blackjack/storage/m0n2/pic/ for outcomes for QL and TD
 
