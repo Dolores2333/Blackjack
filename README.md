@@ -255,7 +255,7 @@ We also has some higher level hyperparameters that are assigned in the template 
 
 We illustrate the typical plots as examples and you want to see more, please visit the subfolder with path = STORAGE/INSTANCE/pic
 
-### m=$\infty$, n=2
+### $m=\infty$, $n=2$
 
 MC_best_value visualization
 
