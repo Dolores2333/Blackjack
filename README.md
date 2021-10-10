@@ -2,8 +2,6 @@
 
 Author: ZHA Mengyue
 
-SID: 20668901
-
 Math Department of HKUST
 
 ![](https://github.com/Dolores2333/Blackjack/blob/main/casino.png)
